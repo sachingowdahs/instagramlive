@@ -1,0 +1,370 @@
+{
+  "currentaccount": {
+    "number": "9535225600",
+    "fullname": "sachinkumar",
+    "username": "sachin",
+    "password": "12121212",
+    "followers": 81,
+    "following": 971,
+    "posts": 90
+  },
+  "signupdetails": [
+    {
+      "number": "9535225600",
+      "fullname": "sachinkumar",
+      "username": "sachin",
+      "password": "12121212",
+      "followers": 81,
+      "following": 971,
+      "posts": 90,
+      "id": 1
+    },
+    {
+      "number": "8792661643",
+      "fullname": "abhishek",
+      "username": "abhi07",
+      "password": "12121212",
+      "followers": 600,
+      "following": 564,
+      "posts": 2,
+      "id": 2
+    },
+    {
+      "number": "8497004990",
+      "fullname": "manju",
+      "username": "manju001",
+      "password": "12121212",
+      "followers": 860,
+      "following": 330,
+      "posts": 14,
+      "id": 3
+    },
+    {
+      "number": "9731567134",
+      "fullname": "basava",
+      "username": "basava007",
+      "password": "11111111",
+      "followers": 929,
+      "following": 112,
+      "posts": 38,
+      "id": 4
+    },
+    {
+      "number": "0000000000",
+      "fullname": "cduhjdcjhidjf",
+      "username": "djdfjdf",
+      "password": "00000000",
+      "followers": 212,
+      "following": 735,
+      "posts": 5,
+      "id": 5
+    },
+    {
+      "number": "9090909090",
+      "fullname": "kumar",
+      "username": "sanju",
+      "password": "12121212",
+      "followers": 399,
+      "following": 3,
+      "posts": 96,
+      "id": 6
+    },
+    {
+      "number": "9090909090",
+      "fullname": "sanjay kumar",
+      "username": "sanju",
+      "password": "12121212",
+      "followers": 386,
+      "following": 161,
+      "posts": 23,
+      "id": 7
+    },
+    {
+      "number": "8748868510",
+      "fullname": "sanjay",
+      "username": "kumar",
+      "password": "sanju123",
+      "followers": 883,
+      "following": 616,
+      "posts": 54,
+      "id": 8
+    },
+    {
+      "number": "9731093209",
+      "fullname": "ramya_krishna",
+      "username": "ramya",
+      "password": "12121212",
+      "followers": 610,
+      "following": 695,
+      "posts": 83,
+      "id": 9
+    },
+    {
+      "number": "9999999999",
+      "fullname": "sudharshan",
+      "username": "sudhar",
+      "password": "12121212",
+      "followers": 950,
+      "following": 431,
+      "posts": 13,
+      "id": 10
+    },
+    {
+      "number": "9844423927",
+      "fullname": "kowshik n",
+      "username": "kowshi@123",
+      "password": "12345698",
+      "followers": 112,
+      "following": 568,
+      "posts": 74,
+      "id": 11
+    }
+  ],
+  "Home": [
+    {
+      "title": "Royal Challengers Bangalore",
+      "image": "https://media.gqindia.com/wp-content/uploads/2020/10/Royal-Challengers-Bangalore.jpeg",
+      "likes": 25283,
+      "id": 1
+    },
+    {
+      "title": "Chennai Super Kings",
+      "image": "https://wallpapercave.com/wp/wp3116421.jpg",
+      "likes": 28723,
+      "id": 2
+    },
+    {
+      "title": "Delhi Capitals",
+      "image": "https://wallpapercave.com/wp/wp7622331.jpg",
+      "likes": 2623,
+      "id": 3
+    },
+    {
+      "title": "Lucknow Supergaints",
+      "image": "https://imagevars.gulfnews.com/2019/12/19/KL-Rahul_16f1ef8d4ee_large.jpg",
+      "likes": 1673,
+      "id": 4
+    },
+    {
+      "title": "Benki trolls",
+      "image": "https://th.bing.com/th/id/OIP.O5zEl-I6Gdzfpj_SlXWB-gHaHa?pid=ImgDet&rs=1",
+      "likes": 853,
+      "id": 5
+    },
+    {
+      "title": "trolls",
+      "image": "https://media.istockphoto.com/photos/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch-picture-id1255328634?k=20&m=1255328634&s=612x612&w=0&h=qs05DdCsFOJ-ihQcczqB3QcUNWjPpsre6uC-4Qs5zmc=",
+      "likes": 233,
+      "id": 6
+    },
+    {
+      "title": "bgm best",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXVzaWN8ZW58MHx8MHx8&w=1000&q=80",
+      "likes": 773,
+      "id": 7
+    },
+    {
+      "title": "rcb",
+      "image": "https://th.bing.com/th/id/R.d233cb8ac5b638700434dadd3e87c658?rik=VBHnoG3vsvwBew&riu=http%3a%2f%2f1.bp.blogspot.com%2f-prVrTfkeCwM%2fVRknHeu0edI%2fAAAAAAAAA7o%2f1RIEX-pH2PI%2fs1600%2fIPL-8-RCB-HD-Wallpaper.jpg&ehk=N06ma7s5WGPTshch9hd2s4T7SjmHu8F75Dsvra%2bFtrU%3d&risl=&pid=ImgRaw&r=0",
+      "likes": 773,
+      "id": 7
+    }
+  ],
+  "Homeprofile": [
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://th.bing.com/th/id/R.cd7471bb58b78e85e5347ed48e3b51d7?rik=iA88wCmUTjMn0g&riu=http%3a%2f%2f2.bp.blogspot.com%2f_3DSZkDmofok%2fTVDCyQaF9uI%2fAAAAAAAACw4%2fvhBwyS0kt_s%2fs1600%2fupendra-1-27.jpg&ehk=KZmKUyZVBw9HqulvUIPC%2f%2bvMhdhwl0slcDK8DaMVzwM%3d&risl=&pid=ImgRaw&r=0",
+      "mt": "15%",
+      "m": "modal",
+      "sm": "setmodal",
+      "id": 1
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "mt": "18.5%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 2
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "mt": "22%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 3
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "mt": "25%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 4
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "mt": "28.5%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 5
+    }
+  ],
+  "message": [
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 1
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 2
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 3
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 4
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 5
+    },
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 6
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 7
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 8
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 9
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 10
+    },
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 11
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 12
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 13
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 14
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 15
+    }
+  ],
+  "story": [
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "nature img..",
+      "image": "https://th.bing.com/th/id/R.d58339de61b5d07fd4db988f8e8a7cdd?rik=1%2fUoNcqqIfTiXw&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f01%2fnature-images..jpg&ehk=%2fG27fwqbQI%2fi%2bxgGclM1BHuObngpvsp27tc36F59T9c%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "mumbai ind..",
+      "image": "https://www.bizasialive.com/wp/wp-content/uploads/2018/04/mumbaiindians001.jpg"
+    },
+    {
+      "name": "BGM ..",
+      "image": "https://th.bing.com/th/id/R.a6bee79616392238bf8ae55452fd27aa?rik=WeFuSbzkrTnltg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fz1O0DZw.jpg&ehk=5s0jfO4mgFng6FrBkoL%2fCkU8y2zyl00OsoXISIlqEOU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "praveen...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "siddu gowda.",
+      "image": "https://kalingatv.com/wp-content/uploads/2017/04/Virat-Kohli-RCB.jpg"
+    },
+    {
+      "name": "sanju...",
+      "image": "https://th.bing.com/th/id/OIP.AiWFWy2E7XXt7nLTNtuUpwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "trolls...",
+      "image": "https://th.bing.com/th/id/OIP.O5zEl-I6Gdzfpj_SlXWB-gHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "football...",
+      "image": "https://suttondistrict.co.uk/wp-content/uploads/2021/01/football.jpg"
+    },
+    {
+      "name": "delhi cap...",
+      "image": "https://www.betrallyindia.com/wp-content/uploads/2020/03/delhi-capitals-logo.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    }
+  ]
+}

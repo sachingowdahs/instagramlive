@@ -1,0 +1,225 @@
+{
+  "Home": [
+    {
+      "title": "Royal Challengers Bangalore",
+      "image": "https://media.gqindia.com/wp-content/uploads/2020/10/Royal-Challengers-Bangalore.jpeg"
+    },
+    {
+      "title": "Chennai Super Kings",
+      "image": "https://wallpapercave.com/wp/wp3116421.jpg"
+    },
+    {
+      "title": "Delhi Capitals",
+      "image": "https://wallpapercave.com/wp/wp7622331.jpg"
+    },
+    {
+      "title": "Lucknow Supergaints",
+      "image": "https://imagevars.gulfnews.com/2019/12/19/KL-Rahul_16f1ef8d4ee_large.jpg"
+    },
+    {
+      "title": "Benki trolls",
+      "image": "https://th.bing.com/th/id/OIP.O5zEl-I6Gdzfpj_SlXWB-gHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "title": "trolls",
+      "image": "https://media.istockphoto.com/photos/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch-picture-id1255328634?k=20&m=1255328634&s=612x612&w=0&h=qs05DdCsFOJ-ihQcczqB3QcUNWjPpsre6uC-4Qs5zmc="
+    }
+  ],
+  "Homeprofile": [
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://th.bing.com/th/id/R.cd7471bb58b78e85e5347ed48e3b51d7?rik=iA88wCmUTjMn0g&riu=http%3a%2f%2f2.bp.blogspot.com%2f_3DSZkDmofok%2fTVDCyQaF9uI%2fAAAAAAAACw4%2fvhBwyS0kt_s%2fs1600%2fupendra-1-27.jpg&ehk=KZmKUyZVBw9HqulvUIPC%2f%2bvMhdhwl0slcDK8DaMVzwM%3d&risl=&pid=ImgRaw&r=0",
+      "mt": "15%",
+      "m": "modal",
+      "sm": "setmodal",
+      "id": 1
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "mt": "18.5%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 2
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "mt": "22%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 3
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "mt": "25%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 4
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "mt": "28.5%",
+      "m": "modal1",
+      "sm": "setmodal1",
+      "id": 5
+    }
+  ],
+  "message": [
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 1
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 2
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 3
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 4
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 5
+    },
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 6
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 7
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 8
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 9
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 10
+    },
+    {
+      "name": "praveen_kumar",
+      "subname": "praveen",
+      "pimage": "https://wallpapercave.com/wp/wp2722928.jpg",
+      "id": 11
+    },
+    {
+      "name": "sidlinge_gowda",
+      "subname": "siddu",
+      "pimage": "https://2.bp.blogspot.com/-UmSEOh0CSN4/WlD0JBHMrMI/AAAAAAAAlrY/32a4VUciMNMyNFTS3jbXjspl0cxh1skHwCLcBGAs/s1600/Virat-Kohli-Images-HD-12.jpg",
+      "id": 12
+    },
+    {
+      "name": "sanjay_kumar",
+      "subname": "sanju",
+      "pimage": "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/raindrops-images.jpg",
+      "id": 13
+    },
+    {
+      "name": "yogesh_h_m",
+      "subname": "manu",
+      "pimage": "https://i1.wp.com/godofindia.com/wp-content/uploads/2017/09/gud-evening.jpg",
+      "id": 14
+    },
+    {
+      "name": "suman_raj",
+      "subname": "suman",
+      "pimage": "https://wallpapercave.com/wp/wp2555647.jpg",
+      "id": 15
+    }
+  ],
+  "story": [
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "nature img..",
+      "image": "https://th.bing.com/th/id/R.d58339de61b5d07fd4db988f8e8a7cdd?rik=1%2fUoNcqqIfTiXw&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f01%2fnature-images..jpg&ehk=%2fG27fwqbQI%2fi%2bxgGclM1BHuObngpvsp27tc36F59T9c%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "mumbai ind..",
+      "image": "https://www.bizasialive.com/wp/wp-content/uploads/2018/04/mumbaiindians001.jpg"
+    },
+    {
+      "name": "BGM ..",
+      "image": "https://th.bing.com/th/id/R.a6bee79616392238bf8ae55452fd27aa?rik=WeFuSbzkrTnltg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fz1O0DZw.jpg&ehk=5s0jfO4mgFng6FrBkoL%2fCkU8y2zyl00OsoXISIlqEOU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "name": "praveen...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "siddu gowda.",
+      "image": "https://kalingatv.com/wp-content/uploads/2017/04/Virat-Kohli-RCB.jpg"
+    },
+    {
+      "name": "sanju...",
+      "image": "https://th.bing.com/th/id/OIP.AiWFWy2E7XXt7nLTNtuUpwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "trolls...",
+      "image": "https://th.bing.com/th/id/OIP.O5zEl-I6Gdzfpj_SlXWB-gHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "name": "football...",
+      "image": "https://suttondistrict.co.uk/wp-content/uploads/2021/01/football.jpg"
+    },
+    {
+      "name": "delhi cap...",
+      "image": "https://www.betrallyindia.com/wp-content/uploads/2020/03/delhi-capitals-logo.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    },
+    {
+      "name": "Royal cha...",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2020/02/rcb-1.jpg"
+    }
+  ]
+}

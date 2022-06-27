@@ -1,0 +1,9 @@
+.sign{
+    background-color: white;
+    width:350px;
+    height:486px;
+    border:1px solid rgba(var(--b6a,219,219,219),1);
+    margin-top: 8%;
+    margin-left: 1.2%;
+    
+}
