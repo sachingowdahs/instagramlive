@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/instagramlive/static/css/main.20c4d8ee.css",
+    "main.js": "/instagramlive/static/js/main.20e42588.js",
+    "static/media/instagram.png": "/instagramlive/static/media/instagram.c2b5ab0c04f309922020.png",
+    "static/media/virat.jpg": "/instagramlive/static/media/virat.a260430cfcdf73d46c4b.jpg",
+    "static/media/redheart.png": "/instagramlive/static/media/redheart.bf41e80ff7a81b4fd84f.png",
+    "static/media/loginbg.png": "/instagramlive/static/media/loginbg.3686ea841c61da4e3863.png",
+    "static/media/profileavatar.png": "/instagramlive/static/media/profileavatar.c8d4539178d4351030a9.png",
+    "static/media/emoji.png": "/instagramlive/static/media/emoji.04c580904c29f5c5fa3e.png",
+    "static/media/facebook.png": "/instagramlive/static/media/facebook.64a5b676fe8a2c960fa9.png",
+    "static/media/switch.png": "/instagramlive/static/media/switch.2e1dfa6947ab5e467a67.png",
+    "static/media/setting.png": "/instagramlive/static/media/setting.c3f81f279d8bc1da45c6.png",
+    "static/media/loading.gif": "/instagramlive/static/media/loading.9ca0810199063639c646.gif",
+    "static/media/videoandimage.png": "/instagramlive/static/media/videoandimage.35ef9f9edf61c4bfd7ff.png",
+    "static/media/message.png": "/instagramlive/static/media/message.99310742fe4497342b51.png",
+    "static/media/edit.png": "/instagramlive/static/media/edit.410ba0dab7324e991b59.png",
+    "static/media/tag.png": "/instagramlive/static/media/tag.08e337addf4b8724fba0.png",
+    "static/media/save.png": "/instagramlive/static/media/save.f908844051d6994d9fa4.png",
+    "static/media/messenger.svg": "/instagramlive/static/media/messenger.4430fb5410d59c52fd0f127f2189e759.svg",
+    "index.html": "/instagramlive/index.html",
+    "main.20c4d8ee.css.map": "/instagramlive/static/css/main.20c4d8ee.css.map",
+    "main.20e42588.js.map": "/instagramlive/static/js/main.20e42588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c4d8ee.css",
+    "static/js/main.20e42588.js"
+  ]
+}
